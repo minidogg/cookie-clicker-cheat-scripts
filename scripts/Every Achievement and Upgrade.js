@@ -1,0 +1,1 @@
+javascript:for (let index = 0; index < Object.keys(Game.Upgrades).length; index++) {    Game.Upgrades[Object.keys(Game.Upgrades)[index]].bought=true;};for (let index2 = 0; index2 < Object.keys(Game.Achievements).length; index2++) {    Game.Achievements[Object.keys(Game.Achievements)[index2]].won=true;};
