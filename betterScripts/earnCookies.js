@@ -1,1 +1,1 @@
-javascript:void function(){void function(){Game.Prompt("<p>How many cookies?</p><div class='block'><input id='cookiebox' type='number'></div>",[["COOKIES","Game.Earn(Number(document.getElementById('cookiebox').value));Game.ClosePrompt();"]])}()}();
+void function(){void function(){Game.Prompt("<p>How many cookies?</p><div class='block'><input id='cookiebox' type='number'></div>",[["COOKIES","Game.Earn(Number(document.getElementById('cookiebox').value));Game.ClosePrompt();"]])}()}();
