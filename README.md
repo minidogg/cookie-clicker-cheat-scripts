@@ -4,6 +4,8 @@ Just some scripts I made for cookie clicker.
 ## How to use
 You can use these by copying the scripts and either pasting them into the console, you can paste them into the URL bar, or if you know what bookmarklets are you can put it into a bookmark and change the link to the code.
 
+I suggest you use the scripts from the betterScripts folder because a lot of them have a GUI and I have learned new things about website modding.
+
 Do know that if you want to use a script from the scripts folder (not the betterScripts folder) again you have to refresh.
 
 ## Advice
